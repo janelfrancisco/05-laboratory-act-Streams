@@ -41,6 +41,8 @@ namespace Streams_Act
             {
                 outputFile.WriteLine(getInput);
                 Console.WriteLine(getInput);
+
+                MessageBox.Show("File Created!" + docPath);
             }
 
 
