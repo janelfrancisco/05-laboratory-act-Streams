@@ -48,6 +48,10 @@ namespace Streams_Act
 
 
         }
-    
+
+        private void txtInput_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

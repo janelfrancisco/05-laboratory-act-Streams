@@ -29,6 +29,9 @@ namespace Streams_Act
 
             // Call the Close() method afterward
             this.Close();
+
+            FrmRegistration frmRegistration = new FrmRegistration();
+            frmRegistration.ShowDialog();
         }
     }
 }

@@ -1,0 +1,7 @@
+Student Number: 2000346662
+Program: BS Information Technology
+Full Name: Janel M Galisfrancisco
+Age: 20
+Birthday: Saturday, March 12, 2005
+Gender: Female 
+Contact No.: 09940620434
